@@ -2,10 +2,12 @@ package com.modoo.mgr.service.model;
 
 import java.util.Date;
 
+import lombok.Data;
 
 /**
  * 결제내역 VO 
  */
+@Data
 public class PgVO {
 	
 	/**
