@@ -9,5 +9,5 @@ public class ModooMgrApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ModooMgrApplication.class, args);
 	}
-
+	
 }
